@@ -1,0 +1,449 @@
+[{
+  "_id": {
+    "$oid": "608b87e5e118a46c88654a03"
+  },
+  "BannerId": 1,
+  "BannerName": "Food",
+  "DisplayOrder": 1,
+  "Image": "ad9d58ad-f184-411e-8bb3-636fcb214862.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 2,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "6090ef80bc205706754980ef"
+  },
+  "BannerId": 2,
+  "BannerName": "Banner 3",
+  "DisplayOrder": 3,
+  "Image": "4ffeedf7-b56d-4acb-85e4-d5d5c3205af7.jpg",
+  "Status": 0,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "6090efd8bc205706754980f0"
+  },
+  "BannerId": 3,
+  "BannerName": "Banner 5",
+  "DisplayOrder": 5,
+  "Image": "96f1a329-84e7-42d0-89d4-f2459e0fe3b0.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "6090f001bc205706754980f1"
+  },
+  "BannerId": 4,
+  "BannerName": "Banner 4",
+  "DisplayOrder": 4,
+  "Image": "c814e8ff-fc08-492d-beda-48d66fa9c4cf.jpg",
+  "Status": 0,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "6090f026bc205706754980f2"
+  },
+  "BannerId": 5,
+  "BannerName": "Banner 5",
+  "DisplayOrder": 5,
+  "Image": "007d62b4-48be-41aa-97d7-47c0840fcaaf.jpg",
+  "Status": 0,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "6090f075bc205706754980f3"
+  },
+  "BannerId": 6,
+  "BannerName": "Banner 2",
+  "DisplayOrder": 2,
+  "Image": "525195d1-2f93-49c3-adac-0b6337244481.jpg",
+  "Status": 0,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "6090f075bc205706754980f4"
+  },
+  "BannerId": 6,
+  "BannerName": "Banner 2",
+  "DisplayOrder": 2,
+  "Image": "904e32b0-bf26-485f-8068-54e2b08aa149.jpg",
+  "Status": 0,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "6090f116bc205706754980f5"
+  },
+  "BannerId": 8,
+  "BannerName": "bANNER 6",
+  "DisplayOrder": 6,
+  "Image": "a88c957e-3618-4895-a461-0219a2436a37.jpg",
+  "Status": 0,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "609104e9bc205706754980fd"
+  },
+  "BannerId": 9,
+  "BannerName": "bottom",
+  "DisplayOrder": 1,
+  "Image": "246d66e6-b28d-49d0-b275-3f0549bccf26.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "HaveNavigation": false,
+  "NavigateToMerchantId": 0,
+  "NavigateToCategoryId": 0,
+  "NavigateToCategoryType": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "609107d5bc205706754980fe"
+  },
+  "BannerId": 10,
+  "BannerName": "Fashion ",
+  "DisplayOrder": 1,
+  "Image": "18792bf1-4c3d-43dd-9fb9-eb88a29ad58c.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 4,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a5fd3df76fb917b1a8e490"
+  },
+  "BannerId": 11,
+  "BannerName": "Food",
+  "DisplayOrder": 1,
+  "Image": "fb53421c-0cfc-4616-895c-cbfaff50d18a.jpg",
+  "Status": 0,
+  "BannerType": 0,
+  "CategoryId": 2,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "60b84c43de0a61ae6d72d422"
+  },
+  "BannerId": 12,
+  "BannerName": "Prestige Hut Inner Page",
+  "DisplayOrder": 1,
+  "Image": "ec688f6e-a7e6-463d-9f85-3d2f8da21121.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b84cfdde0a61ae6d72d423"
+  },
+  "BannerId": 13,
+  "BannerName": "Al baik Inner Page",
+  "DisplayOrder": 2,
+  "Image": "ee5c5466-f86a-47f1-b931-9571bddb52cb.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b84d33de0a61ae6d72d424"
+  },
+  "BannerId": 14,
+  "BannerName": "Rahath Inner Page",
+  "DisplayOrder": 3,
+  "Image": "9aba9bda-6d65-42c4-97b1-c20e12224702.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b84d48de0a61ae6d72d425"
+  },
+  "BannerId": 15,
+  "BannerName": "Raydan",
+  "DisplayOrder": 9,
+  "Image": "517abce5-e346-4d16-ace5-c449b3ecc80b.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 6,
+  "NavigateToCategoryId": 2,
+  "NavigateToCategoryType": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b84d9ade0a61ae6d72d426"
+  },
+  "BannerId": 16,
+  "BannerName": "Beirut Inner Page",
+  "DisplayOrder": 5,
+  "Image": "b6d091c3-a3df-4184-830d-7e21f41cb9f7.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b84de9de0a61ae6d72d427"
+  },
+  "BannerId": 17,
+  "BannerName": "Cheezo Inner Page",
+  "DisplayOrder": 6,
+  "Image": "d65a2615-2efe-400c-83f1-728da3dc265e.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b84e0dde0a61ae6d72d428"
+  },
+  "BannerId": 18,
+  "BannerName": "Minar Inner Page",
+  "DisplayOrder": 7,
+  "Image": "9afc8bde-9bf7-43ea-bb0f-854db3adc71e.jpg",
+  "Status": 0,
+  "BannerType": 0,
+  "CategoryId": 2,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "60b876887353490f91b312c9"
+  },
+  "BannerId": 19,
+  "BannerName": "Beirut Dashboard",
+  "DisplayOrder": 1,
+  "Image": "8fa23e84-764e-4fc9-908b-97cbd297e885.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 4,
+  "NavigateToCategoryId": 2,
+  "NavigateToCategoryType": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b876dc7353490f91b312ca"
+  },
+  "BannerId": 20,
+  "BannerName": "Cheezo Dashboard",
+  "DisplayOrder": 6,
+  "Image": "c1bb708a-a467-4a8c-bfe9-261dfa1beb13.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 13,
+  "NavigateToCategoryId": 2,
+  "NavigateToCategoryType": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b886b8cd23551def20547c"
+  },
+  "BannerId": 21,
+  "BannerName": "Al baik Dashboard",
+  "DisplayOrder": 8,
+  "Image": "0befdbb2-db93-4aa0-bf69-3015622338e9.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 9,
+  "NavigateToCategoryId": 2,
+  "NavigateToCategoryType": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b89101cd23551def205496"
+  },
+  "BannerId": 22,
+  "BannerName": "Prestige Hut Dashboard",
+  "DisplayOrder": 3,
+  "Image": "b02cb68e-68fb-4c07-9ae9-f8912b27d4c8.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 8,
+  "NavigateToCategoryId": 2,
+  "NavigateToCategoryType": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b9cdebc804c3ef55149c2b"
+  },
+  "BannerId": 23,
+  "BannerName": "Rahath Offer Dashboard",
+  "DisplayOrder": 4,
+  "Image": "10fcfce3-f19f-4b9f-8424-a9a630c77729.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 7,
+  "NavigateToCategoryId": 2,
+  "NavigateToCategoryType": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60dbfe291c095b9121fc3874"
+  },
+  "BannerId": 24,
+  "BannerName": "Vegetables Dashboard",
+  "DisplayOrder": 5,
+  "Image": "38bda49a-75b9-46e4-8e70-bd2199b28ce5.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 17,
+  "NavigateToCategoryId": 6,
+  "NavigateToCategoryType": 6,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60e3f665715c31c088c007af"
+  },
+  "BannerId": 25,
+  "BannerName": "Pothichore Dashboard Banner",
+  "DisplayOrder": 7,
+  "Image": "e275dda3-d4c7-4971-b78b-1a3f938a35e7.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 22,
+  "NavigateToCategoryId": 2,
+  "NavigateToCategoryType": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "610bcf99771058bfc934efbe"
+  },
+  "BannerId": 26,
+  "BannerName": "Jalaliya Dashboard",
+  "DisplayOrder": 10,
+  "Image": "adbfac1e-0ebf-455d-becb-4314efeb83d4.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 3,
+  "NavigateToCategoryId": 1,
+  "NavigateToCategoryType": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "610bde90771058bfc934efc3"
+  },
+  "BannerId": 27,
+  "BannerName": "Chicken Category",
+  "DisplayOrder": 1,
+  "Image": "1522a05c-6f7d-48b4-84fc-2a00c70e185e.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 5,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 10,
+  "NavigateToCategoryId": 5,
+  "NavigateToCategoryType": 5,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "610bdee0771058bfc934efc4"
+  },
+  "BannerId": 28,
+  "BannerName": "Fishly - Category",
+  "DisplayOrder": 2,
+  "Image": "4bdc87a4-c250-4773-bb46-e10bbe309e3a.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 5,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 16,
+  "NavigateToCategoryId": 5,
+  "NavigateToCategoryType": 5,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "610bdf0b771058bfc934efc5"
+  },
+  "BannerId": 29,
+  "BannerName": "Vegetables Bottom",
+  "DisplayOrder": 1,
+  "Image": "b582a124-10c5-4dac-8b95-134b29062f10.jpg",
+  "Status": 1,
+  "BannerType": 1,
+  "CategoryId": 0,
+  "HaveNavigation": false,
+  "NavigateToMerchantId": 0,
+  "NavigateToCategoryId": 0,
+  "NavigateToCategoryType": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "611522214a556ec89d3ceca1"
+  },
+  "BannerId": 30,
+  "BannerName": "Vellimoonga Dashboard",
+  "DisplayOrder": 2,
+  "Image": "9d61b444-4076-4de4-8319-1749b45f7eec.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 2,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 23,
+  "NavigateToCategoryId": 2,
+  "NavigateToCategoryType": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "611522444a556ec89d3ceca2"
+  },
+  "BannerId": 31,
+  "BannerName": "Vellimoonga Inner Page",
+  "DisplayOrder": 7,
+  "Image": "361d66ee-5dd3-4d56-8ff3-ed881ec4fe31.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 2,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 23,
+  "NavigateToCategoryId": 2,
+  "NavigateToCategoryType": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "6124a6414879d5d8dbb166f1"
+  },
+  "BannerId": 32,
+  "BannerName": "Bakes Lounge",
+  "DisplayOrder": 1,
+  "Image": "65c4d762-b6cd-4f1e-8db1-5bf17933dbe7.jpg",
+  "Status": 1,
+  "BannerType": 0,
+  "CategoryId": 0,
+  "HaveNavigation": true,
+  "NavigateToMerchantId": 24,
+  "NavigateToCategoryId": 2,
+  "NavigateToCategoryType": 2,
+  "IsDeleted": 0
+}]

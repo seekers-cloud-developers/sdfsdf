@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "611a8f3a9f3cc3a6f850b3f8"
+  },
+  "FrangacyId": 1,
+  "FrangacyName": "Malappuram",
+  "CustomerCareNo": "9539438010",
+  "ZoneIds": [
+    1,
+    3
+  ],
+  "CreatedDate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsDeleted": 0,
+  "Status": 1
+},{
+  "_id": {
+    "$oid": "611cbd065175efccc2a44204"
+  },
+  "FrangacyId": 2,
+  "FrangacyName": "Nilambur",
+  "ZoneIds": [
+    3
+  ],
+  "CreatedDate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsDeleted": 1,
+  "Status": 1
+},{
+  "_id": {
+    "$oid": "6124a3334879d5d8dbb166ef"
+  },
+  "FrangacyId": 3,
+  "FrangacyName": "Nilambur",
+  "ZoneIds": [
+    3
+  ],
+  "CreatedDate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsDeleted": 1,
+  "Status": 2
+},{
+  "_id": {
+    "$oid": "6124a6084879d5d8dbb166f0"
+  },
+  "FrangacyId": 4,
+  "FrangacyName": "Nilambur",
+  "ZoneIds": [
+    3
+  ],
+  "CreatedDate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsDeleted": 1,
+  "Status": 2
+},{
+  "_id": {
+    "$oid": "6135ae6fce1e44b69cbf251d"
+  },
+  "FrangacyId": 5,
+  "FrangacyName": "Perinthalmanna",
+  "ZoneIds": [
+    4
+  ],
+  "CreatedDate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsDeleted": 0,
+  "Status": 1
+},{
+  "_id": {
+    "$oid": "61388c7df860db27849d38b6"
+  },
+  "FrangacyId": 6,
+  "FrangacyName": "Nilambur",
+  "ZoneIds": [
+    3
+  ],
+  "CreatedDate": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsDeleted": 1,
+  "Status": 1
+}]

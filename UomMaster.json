@@ -1,0 +1,305 @@
+[{
+  "_id": {
+    "$oid": "60926027f11d926fbf8428e5"
+  },
+  "UomId": 1,
+  "UomCode": "Nos",
+  "UomDescription": "Number",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "609e84579e292054057acea2"
+  },
+  "UomId": 2,
+  "UomCode": "PL",
+  "UomDescription": "Plate",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "609ea2a6b127970856a3fd68"
+  },
+  "UomId": 3,
+  "UomCode": "Full",
+  "UomDescription": "Full",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "609ea35ab127970856a3fd6a"
+  },
+  "UomId": 4,
+  "UomCode": "Half",
+  "UomDescription": "Half",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "609ea4adb127970856a3fd6d"
+  },
+  "UomId": 5,
+  "UomCode": "Qtr",
+  "UomDescription": "Quarter",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a20bf60176104780c707d4"
+  },
+  "UomId": 6,
+  "UomCode": "Pcs",
+  "UomDescription": "Piece",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a6014ef76fb917b1a8e495"
+  },
+  "UomId": 7,
+  "UomCode": "Combo",
+  "UomDescription": "Combo",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a63aadf04586033bc1c24d"
+  },
+  "UomId": 8,
+  "UomCode": "Stick",
+  "UomDescription": "Per Stick",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a9ebb96855b49a0a4e9826"
+  },
+  "UomId": 9,
+  "UomCode": "Kg",
+  "UomDescription": "Kilogram",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa03776855b49a0a4e983c"
+  },
+  "UomId": 10,
+  "UomCode": "g",
+  "UomDescription": "Gram",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b1cffb351d199862540210"
+  },
+  "UomId": 11,
+  "UomCode": "Pkt",
+  "UomDescription": "Packet",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c301129e23eb0dd54d974a"
+  },
+  "UomId": 12,
+  "UomCode": "500g",
+  "UomDescription": "500g",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c303519e23eb0dd54d974e"
+  },
+  "UomId": 13,
+  "UomCode": "1 Kg",
+  "UomDescription": "1 Kilogram",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c46c816154e3da6b6086cd"
+  },
+  "UomId": 14,
+  "UomCode": "200g",
+  "UomDescription": "200 gram\n",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c470716154e3da6b6086d3"
+  },
+  "UomId": 15,
+  "UomCode": "250g",
+  "UomDescription": "250 gram \n",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c497b06154e3da6b6086fa"
+  },
+  "UomId": 16,
+  "UomCode": "12Pcs",
+  "UomDescription": "12 pcs",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c497d66154e3da6b6086fc"
+  },
+  "UomId": 17,
+  "UomCode": "2Pcs",
+  "UomDescription": "2Pcs",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c497fc6154e3da6b6086fd"
+  },
+  "UomId": 18,
+  "UomCode": "4Pcs",
+  "UomDescription": "4Pcs",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c4981e6154e3da6b6086fe"
+  },
+  "UomId": 19,
+  "UomCode": "8Pcs",
+  "UomDescription": "8Pcs",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c498bb6154e3da6b6086ff"
+  },
+  "UomId": 20,
+  "UomCode": "16pcs",
+  "UomDescription": "16pcs",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c499246154e3da6b608701"
+  },
+  "UomId": 21,
+  "UomCode": "20pcs",
+  "UomDescription": "20pcs",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c4f3456154e3da6b60875d"
+  },
+  "UomId": 22,
+  "UomCode": "100g",
+  "UomDescription": "100g",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c738275a17631cc2d7f3c2"
+  },
+  "UomId": 23,
+  "UomCode": "40g",
+  "UomDescription": "40g",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60fe67ae610ae4084159f8d3"
+  },
+  "UomId": 24,
+  "UomCode": "750 ML",
+  "UomDescription": "750 ML",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60fe67df610ae4084159f8d4"
+  },
+  "UomId": 25,
+  "UomCode": "1 Ltr 25ml",
+  "UomDescription": "1 Ltr 25ml",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60fe7238610ae4084159f8d6"
+  },
+  "UomId": 26,
+  "UomCode": "1 pc",
+  "UomDescription": "1 pc",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60fe74e6610ae4084159f8d7"
+  },
+  "UomId": 27,
+  "UomCode": "3/4 Portion",
+  "UomDescription": "3/4 Portion",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60fe8099610ae4084159f8db"
+  },
+  "UomId": 28,
+  "UomCode": "3 Pcs",
+  "UomDescription": "3 Pcs",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60fe8655610ae4084159f8dc"
+  },
+  "UomId": 29,
+  "UomCode": "Pcs 3",
+  "UomDescription": "Pcs 3",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60fe8743610ae4084159f8dd"
+  },
+  "UomId": 30,
+  "UomCode": "1 Ltr",
+  "UomDescription": "1 Ltr",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60fe89ba610ae4084159f8de"
+  },
+  "UomId": 31,
+  "UomCode": "2 Ltr",
+  "UomDescription": "2 Ltr",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60fe8b9a610ae4084159f8df"
+  },
+  "UomId": 32,
+  "UomCode": "Large",
+  "UomDescription": "Large",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60fe8ba6610ae4084159f8e0"
+  },
+  "UomId": 33,
+  "UomCode": "Medium",
+  "UomDescription": "Medium",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60fe8baf610ae4084159f8e1"
+  },
+  "UomId": 34,
+  "UomCode": "Small",
+  "UomDescription": "Small",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60ffabe6da4ca5aae1bb9aee"
+  },
+  "UomId": 35,
+  "UomCode": "50g",
+  "UomDescription": "50g",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "6107c35cf4360c11b27387bb"
+  },
+  "UomId": 36,
+  "UomCode": "Ltr",
+  "UomDescription": "Liter",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "6107c385f4360c11b27387bc"
+  },
+  "UomId": 37,
+  "UomCode": "ml",
+  "UomDescription": "ml",
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "612ccace2e3b9e17f499a169"
+  },
+  "UomId": 38,
+  "UomCode": "Pc",
+  "UomDescription": "Pc",
+  "IsDeleted": 0
+}]

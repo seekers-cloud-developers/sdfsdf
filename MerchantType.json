@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "609e46882d3eeb2707e46d41"
+  },
+  "TypeId": 1,
+  "TypeName": "Restaurants",
+  "Icon": "/MerchantTypeIcon/2ce26629-254c-401b-97d1-4570e0b84a05.jpg",
+  "CategoryId": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "609e46c22d3eeb2707e46d42"
+  },
+  "TypeId": 2,
+  "TypeName": "Coffee Shop",
+  "Icon": "/MerchantTypeIcon/94c00384-aa34-4f43-a6c7-8cc6c4b52be6.jpg",
+  "CategoryId": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa62c23659b83af9a85def"
+  },
+  "TypeId": 3,
+  "TypeName": "Curry Powders",
+  "Icon": "/MerchantTypeIcon/559edf8c-501a-4d1f-a808-d60e5ff292b8.jpg",
+  "CategoryId": 1,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "60b1c95f351d199862540209"
+  },
+  "TypeId": 4,
+  "TypeName": "Bakery",
+  "Icon": "/MerchantTypeIcon/f7512712-7e2a-4624-97bf-cc7394acadaa.jpg",
+  "CategoryId": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60e3f0b7715c31c088c007ab"
+  },
+  "TypeId": 5,
+  "TypeName": "Pothichore",
+  "Icon": "/MerchantTypeIcon/dc3dc874-1248-4fc1-b31f-8123f83609ae.jpg",
+  "CategoryId": 2,
+  "IsDeleted": 0
+}]

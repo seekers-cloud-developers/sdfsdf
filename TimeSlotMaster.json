@@ -1,0 +1,249 @@
+[{
+  "_id": {
+    "$oid": "60a9f84f6855b49a0a4e9835"
+  },
+  "SlotId": 1,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208967200000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208956400000"
+    }
+  },
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a9f8e06855b49a0a4e9836"
+  },
+  "SlotId": 2,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208956400000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208945600000"
+    }
+  },
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a9f8f46855b49a0a4e9837"
+  },
+  "SlotId": 3,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208945600000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208934800000"
+    }
+  },
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a9f9186855b49a0a4e9838"
+  },
+  "SlotId": 4,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208934800000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208924000000"
+    }
+  },
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b0fc8a5b468118c2fac135"
+  },
+  "SlotId": 5,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208952800000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208945540000"
+    }
+  },
+  "MerchantId": 4,
+  "Status": 1,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "60c301c99e23eb0dd54d974c"
+  },
+  "SlotId": 6,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208960000000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208952800000"
+    }
+  },
+  "MerchantId": 0,
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60c301e99e23eb0dd54d974d"
+  },
+  "SlotId": 7,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208952800000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208909600000"
+    }
+  },
+  "MerchantId": 0,
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60cc7854b901c5f1ecd0f2a6"
+  },
+  "SlotId": 8,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208956400000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208945600000"
+    }
+  },
+  "MerchantId": 0,
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60cc793cb901c5f1ecd0f2a7"
+  },
+  "SlotId": 9,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208956400000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208945600000"
+    }
+  },
+  "MerchantId": 19,
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60cc794ab901c5f1ecd0f2a8"
+  },
+  "SlotId": 10,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208934800000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208924000000"
+    }
+  },
+  "MerchantId": 19,
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "61079d23f4360c11b2738790"
+  },
+  "SlotId": 11,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208958200000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208952800000"
+    }
+  },
+  "MerchantId": 17,
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "61079d31f4360c11b2738791"
+  },
+  "SlotId": 12,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208951000000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208945600000"
+    }
+  },
+  "MerchantId": 17,
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "61079d40f4360c11b2738792"
+  },
+  "SlotId": 13,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208942000000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208934800000"
+    }
+  },
+  "MerchantId": 17,
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "61079d4cf4360c11b2738793"
+  },
+  "SlotId": 14,
+  "StartTime": {
+    "$date": {
+      "$numberLong": "-2208933000000"
+    }
+  },
+  "EndTime": {
+    "$date": {
+      "$numberLong": "-2208924000000"
+    }
+  },
+  "MerchantId": 17,
+  "Status": 1,
+  "IsDeleted": 0
+}]

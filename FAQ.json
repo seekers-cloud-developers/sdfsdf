@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "60a0feb77429b428d7fe66de"
+  },
+  "Answer": " Open the Bookat Online Store from Google Play Store and App Store, Enter your mobile number and enter your name, address and location.Then Choose your favorite neighborhood Merchants and select the product of your choice.",
+  "App": "customer",
+  "IsDeleted": 0,
+  "Question": "How do I register?",
+  "QuestionId": 1
+},{
+  "_id": {
+    "$oid": "60a0ff6b7429b428d7fe66e1"
+  },
+  "Answer": "Each email address and contact phone number can only be associated with one Bookat Online Store account",
+  "App": "customer",
+  "IsDeleted": 0,
+  "Question": "Can I have multiple registrations?",
+  "QuestionId": 4
+},{
+  "_id": {
+    "$oid": "60a0ffba7429b428d7fe66e3"
+  },
+  "Answer": "Each email address and phone number can be associated with one Bookat Online Store account only.",
+  "App": "customer",
+  "IsDeleted": 0,
+  "Question": "Can I have multiple accounts with same mobile number and email id?",
+  "QuestionId": 6
+},{
+  "_id": {
+    "$oid": "60a0ff9a7429b428d7fe66e2"
+  },
+  "Answer": "Yes, you can add multiple delivery addresses in your Bookat Online Store account. However,remember that all items placed in a single order can only be delivered to one address. If you want different products delivered to different address you need to place them as separate orders.",
+  "App": "customer",
+  "IsDeleted": 0,
+  "Question": "Can I add more than one delivery address in an account?",
+  "QuestionId": 5
+},{
+  "_id": {
+    "$oid": "60a0fed77429b428d7fe66df"
+  },
+  "Answer": "No. Registration on Bookat Online Store is absolutely free.",
+  "App": "customer",
+  "IsDeleted": 0,
+  "Question": "Are there any charges for registration?",
+  "QuestionId": 2
+},{
+  "_id": {
+    "$oid": "60a0ff037429b428d7fe66e0"
+  },
+  "Answer": "You can surf and add products to the cart without registration but only registered shoppers will be able to checkout and place orders",
+  "App": "customer",
+  "IsDeleted": 0,
+  "Question": "Do I have to necessarily register to shop on Bookat Online Store?",
+  "QuestionId": 3
+},{
+  "_id": {
+    "$oid": "60a100237429b428d7fe66e5"
+  },
+  "Answer": "My Account is the section you reach after you log in at Bookat Online Store App. My Account allows you to track your active orders as well as see your order history and update your contact details.",
+  "App": "customer",
+  "IsDeleted": 0,
+  "Question": "What is My Account?",
+  "QuestionId": 8
+},{
+  "_id": {
+    "$oid": "60a0fffa7429b428d7fe66e4"
+  },
+  "Answer": "Yes, you can place orders for multiple cities.",
+  "App": "customer",
+  "IsDeleted": 0,
+  "Question": "Can I have different city addresses under one account and still place orders for multiple cities?",
+  "QuestionId": 7
+},{
+  "_id": {
+    "$oid": "60a100517429b428d7fe66e6"
+  },
+  "Answer": "You need to enter your email address on the Login page and click on forgot password. An email with a reset password will be sent to your email address. With this, you can change your password. In case of any further issues please contact our customer support team.",
+  "App": "customer",
+  "IsDeleted": 0,
+  "Question": "How do I reset my password?",
+  "QuestionId": 9
+}]

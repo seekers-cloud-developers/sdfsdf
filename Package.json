@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "60a60ebaf76fb917b1a8e498"
+  },
+  "PackageId": 1,
+  "PackageName": "Bake Bun Combo",
+  "Packagedescription": "2 pcs Bun",
+  "PackagePrice": "349.0",
+  "PackageImage": "e8279479-9298-4edb-b0fe-74d4b58e1fa9.jpg",
+  "MerchantId": 8,
+  "CategoryId": 2,
+  "Tax": "0.00",
+  "ItemList": [
+    {
+      "ProductId": 65,
+      "DefaultQuatity": "1.0"
+    },
+    {
+      "ProductId": 66,
+      "DefaultQuatity": "2.0"
+    }
+  ],
+  "PreparationMin": 45,
+  "IsDeleted": 1
+}]

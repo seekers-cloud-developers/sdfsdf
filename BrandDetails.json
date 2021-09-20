@@ -1,0 +1,226 @@
+[{
+  "_id": {
+    "$oid": "609221dc0f215a961926b43d"
+  },
+  "BrandId": 1,
+  "BrandName": "Beirut",
+  "Description": "<p>Food Court</p>",
+  "Picture": "20f75345-bead-4654-a0a7-4e682f9210fb.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": true,
+  "ShowFeaturedProductOnHomeScreen": true,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60925f71f11d926fbf8428e4"
+  },
+  "BrandId": 2,
+  "BrandName": "Cycle Agarpathis",
+  "Description": "<p>Agarpathis</p>",
+  "Picture": "9322fb25-7cf4-4005-aece-b765a8ef9126.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "6096a97d730eacf8af6dfe78"
+  },
+  "BrandId": 3,
+  "BrandName": "Cycle Speciality",
+  "Description": "<p>Cycle.in is a one stop store bringing to you the best fragrance products from the unsurpassed leaders in the industry. Discover an array of handpicked products and accessories associated with prayer requirements, personal care, air care and lifestyle products.</p>",
+  "Picture": "3cf24473-6731-4391-96f1-1bd6990670f3.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "6097876cb5327e777214237c"
+  },
+  "BrandId": 4,
+  "BrandName": "Liberty",
+  "Description": "<p>Liberty is the most promising trademarks that were named by late Sri Lakshmaiah Shetty.</p><p>The company was initially started with Incense sticks manufacturing; presently we are producing dhoops, sambrani, cones, diffuser oils, aromatherapy oils, air fresheners, and other products along with Incense sticks.</p>",
+  "Picture": "e9b6c489-52f8-4691-bfef-5b8e60f9ecd7.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "609794d0473d30ea78d61788"
+  },
+  "BrandId": 5,
+  "BrandName": "Tulasi",
+  "Description": "<p>Prominent &amp; Leading Manufacturer from Bengaluru, we offer Tulasi Sugandh Manthan, Tulasi Classic Range Hexagons, Tulasi General Range Short Squares Incense, Naga Durbar Bathi Incense, Tulasi Mystic Range Aromatic Incense Stick and Tulsi Classic Range Incense Stick.</p><p>&nbsp;</p>",
+  "Picture": "807fb10e-b852-406a-9382-f40eb733108b.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a1ea89761ea896373fa963"
+  },
+  "BrandId": 6,
+  "BrandName": "Minar Specials",
+  "Description": "<p>We are providing all branded products</p>",
+  "Picture": "827ca0a9-75cc-4f54-b92a-96cda0a31764.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a1eb56761ea896373fa964"
+  },
+  "BrandId": 7,
+  "BrandName": "Al baik",
+  "Description": "<p>Feasto Express</p>",
+  "Picture": "8e338ef2-5cfa-4014-ba7f-a701630b3547.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a257a14776162b48ec9748"
+  },
+  "BrandId": 8,
+  "BrandName": "Raydan Specials",
+  "Description": "<p>Specials of Raydan Hotel</p>",
+  "Picture": "542767a8-4a55-441c-b6ff-fa5a7af98790.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a29ef97f3acd5f9b5cc6b6"
+  },
+  "BrandId": 9,
+  "BrandName": "Chicken",
+  "Description": "<p>Chicken Items</p>",
+  "Picture": "5f9ce880-c50a-4d35-aa71-c5656e0cb9d0.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a353dbab3a7e2521abf6a4"
+  },
+  "BrandId": 10,
+  "BrandName": "Rahath Special",
+  "Description": "<p>Specials of Rahath</p>",
+  "Picture": "1bdf9cda-0c9b-4bca-b4fc-a8b297feef1f.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a4c9756c018234f54257b3"
+  },
+  "BrandId": 11,
+  "BrandName": "Prestige Huts",
+  "Description": "<p>Delicious dishes of prestige restaurant</p>",
+  "Picture": "0bb74a72-c0ab-43e5-a196-978de483db7a.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a9f5906855b49a0a4e9831"
+  },
+  "BrandId": 12,
+  "BrandName": "Fresh",
+  "Description": "<p>Fresh items</p>",
+  "Picture": "b33545f6-1965-495d-a8cd-eb807e97c263.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa04dd6855b49a0a4e983e"
+  },
+  "BrandId": 13,
+  "BrandName": "Skyzoon",
+  "Description": "<p>Skyzoon Products</p>",
+  "Picture": "d6437708-ca0e-4c7b-b9dc-b59f3d712fc2.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b605fa53338bfdbb2e9049"
+  },
+  "BrandId": 14,
+  "BrandName": "Oils",
+  "Description": "<p>Oils&nbsp;</p>",
+  "Picture": "ef8d8e86-c3b3-43a6-a948-07e60cd33a89.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": false,
+  "ShowFeaturedProductOnHomeScreen": false,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 2,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "61481d3f2c026972c928944c"
+  },
+  "BrandId": 15,
+  "BrandName": "Budokan",
+  "Description": "<p>Corner</p>",
+  "Picture": "155e4ef4-7a2a-4a6f-b3fc-bae673fad2c8.jpg",
+  "PriceRange": "",
+  "ShowOnHomePage": true,
+  "ShowFeaturedProductOnHomeScreen": true,
+  "IncludeOnTopMenu": false,
+  "published": false,
+  "Status": 2,
+  "IsDeleted": 0
+}]

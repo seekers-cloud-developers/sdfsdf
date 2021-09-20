@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "609220e50f215a961926b43c"
+  },
+  "TypeID": 1,
+  "DiscountType": "Buy One Get One",
+  "DiscountTypeImage": "e1a0fe1b-8a49-4d24-8565-1787ca9015b2.jpg",
+  "Status": 1,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "6135c48ece1e44b69cbf2542"
+  },
+  "TypeID": 2,
+  "DiscountType": "TEACHER'S DAY",
+  "DiscountTypeImage": "7d448b42-f4d1-4f22-a6c1-5d0d62fab4c3.jpg",
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "613763df32452d7a07e989f7"
+  },
+  "TypeID": 3,
+  "DiscountType": "Anniversary Offer",
+  "DiscountTypeImage": "40add407-2db3-4616-8d01-a0dc5dc53fc6.jpg",
+  "Status": 1,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "613763df32452d7a07e989f8"
+  },
+  "TypeID": 3,
+  "DiscountType": "Anniversary Offer",
+  "DiscountTypeImage": "bcae24b1-69fe-4556-b7a6-4a5f673e3158.jpg",
+  "Status": 1,
+  "IsDeleted": 0
+}]

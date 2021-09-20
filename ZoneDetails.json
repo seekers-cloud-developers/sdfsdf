@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "6087bb07965f3487fd3d6979"
+  },
+  "ZoneID": 1,
+  "ZoneName": "Edakkara",
+  "District": "Malappuram",
+  "Status": 1,
+  "PincodeList": [
+    {
+      "Pincode": "679331",
+      "IsActive": true
+    },
+    {
+      "Pincode": "679333",
+      "IsActive": true
+    },
+    {
+      "Pincode": "679334",
+      "IsActive": true
+    }
+  ],
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60af2fd6dd42ae27e61b15bc"
+  },
+  "ZoneID": 2,
+  "ZoneName": "vengara",
+  "District": "Malappuram",
+  "Status": 2,
+  "PincodeList": [
+    {
+      "Pincode": "676519",
+      "IsActive": true
+    }
+  ],
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "60bde57a280016aecbb9669b"
+  },
+  "ZoneID": 3,
+  "ZoneName": "Nilambur",
+  "District": "Malappuram",
+  "Status": 1,
+  "PincodeList": [
+    {
+      "Pincode": "679329",
+      "IsActive": true
+    },
+    {
+      "Pincode": "679330",
+      "IsActive": true
+    },
+    {
+      "Pincode": "676542",
+      "IsActive": true
+    },
+    {
+      "Pincode": "679332",
+      "IsActive": true
+    }
+  ],
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "6135ae48ce1e44b69cbf251c"
+  },
+  "ZoneID": 4,
+  "ZoneName": "Perithalmanna",
+  "District": "Malappuram",
+  "Status": 1,
+  "PincodeList": [
+    {
+      "Pincode": "679321",
+      "IsActive": true
+    },
+    {
+      "Pincode": "679322",
+      "IsActive": true
+    },
+    {
+      "Pincode": "679323",
+      "IsActive": true
+    },
+    {
+      "Pincode": "679325",
+      "IsActive": true
+    }
+  ],
+  "IsDeleted": 0
+}]

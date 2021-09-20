@@ -1,0 +1,1086 @@
+[{
+  "_id": {
+    "$oid": "608b8ccbe118a46c88654a07"
+  },
+  "UserId": 5,
+  "DeliveryAgentId": 1,
+  "DeliveryAgentCode": "MG_ID0004",
+  "AgentName": "Tom",
+  "Address": "Near BEuty MARK Gold, Musliyarangadi, Edakkara,\nMalappuram, Kerala - 679331",
+  "LandMark": "Beauty Mark Gold",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "7907054970",
+  "ZoneId": 1,
+  "IdProofType": "Aadhaar",
+  "IdProofImage": "b585149f-624b-428a-ab60-6c0e5160d87d.jpg",
+  "IsDeleted": 0,
+  "Status": 2,
+  "JobType": "VoterId",
+  "IsOnline": true,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60995d11a71a9d871d42ab39"
+  },
+  "UserId": 13,
+  "DeliveryAgentId": 2,
+  "DeliveryAgentCode": "D_AG00013",
+  "AgentName": "Abin",
+  "Address": "Edakkara, Malappuram",
+  "LandMark": "Sbi Bank",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "7736043031",
+  "ZoneId": 1,
+  "IdProofType": "Aadhaar",
+  "IdProofImage": "59c3005b-0437-4471-9809-210563913e18.jpg",
+  "IsDeleted": 0,
+  "Status": 2,
+  "JobType": "VoterId",
+  "IsOnline": true,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": true,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "609e4d1f2d3eeb2707e46d45"
+  },
+  "UserId": 21,
+  "DeliveryAgentId": 3,
+  "DeliveryAgentCode": "MG_ID00020",
+  "AgentName": "Safwan",
+  "Address": "TTB Arcade, Near Bharat Petroleum, Kalasagar Edakkara ",
+  "LandMark": "Near Bharat Petroleum ",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "7770056056",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": ""
+},{
+  "_id": {
+    "$oid": "60a1f26f0176104780c707cb"
+  },
+  "UserId": 34,
+  "DeliveryAgentId": 4,
+  "DeliveryAgentCode": "MG_ID00033",
+  "AgentName": "Rishad",
+  "Address": "Ooty Road, Edakkara",
+  "LandMark": "Ooty Road",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9847648268",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60a29b2c7f3acd5f9b5cc6b4"
+  },
+  "UserId": 47,
+  "DeliveryAgentId": 5,
+  "DeliveryAgentCode": "MG_ID00046",
+  "AgentName": "Raydan",
+  "Address": "Muppini, Edakkara\nMalappuram, Kerala - 679331",
+  "LandMark": "Muppini Road",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": null,
+  "ContactNo": "9744090402",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60a36c414045d4c3aa308464"
+  },
+  "UserId": 50,
+  "DeliveryAgentId": 6,
+  "DeliveryAgentCode": "MG_ID00049",
+  "AgentName": "Asfak",
+  "Address": "Oppo. HP Pump \nMuppini, Edakkara - 679331",
+  "LandMark": "HP Pump",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": null,
+  "ContactNo": "7510657807",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60a4c61209601c7549b04070"
+  },
+  "UserId": 55,
+  "DeliveryAgentId": 7,
+  "DeliveryAgentCode": "MG_ID00054",
+  "AgentName": "Jamsheer",
+  "Address": "Kalasagar Street, Kozhikode-Nilambur, Mysuru - Ooty Rd, Edakkara, Kerala 679331",
+  "LandMark": "Kalasagar Street",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "null",
+  "ContactNo": "9946327371",
+  "ZoneId": 1,
+  "IdProofType": "0",
+  "IdProofImage": "23780913-09df-46c2-a04d-97c66fe53aec.jpg",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "0",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60a60048f76fb917b1a8e493"
+  },
+  "UserId": 58,
+  "DeliveryAgentId": 8,
+  "DeliveryAgentCode": "MG_ID00057",
+  "AgentName": "Albaik",
+  "Address": "Nera Indian Oil Pump,\nOppo ESAF Bank, \nMain Edakkara - 679331",
+  "LandMark": "Oppo Esaf Bank",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": null,
+  "ContactNo": "9846546226",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60a9e9e26855b49a0a4e9824"
+  },
+  "UserId": 76,
+  "DeliveryAgentId": 9,
+  "DeliveryAgentCode": "MG_ID00075",
+  "AgentName": "Abbas",
+  "Address": "Daily Market, Main Road Edakkara",
+  "LandMark": "Daily Market",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "8589878180",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60aa77943659b83af9a85e01"
+  },
+  "UserId": 84,
+  "DeliveryAgentId": 10,
+  "DeliveryAgentCode": "MG_ID00083",
+  "AgentName": "Adinan",
+  "Address": "Musiliyarangadi, Edakkara - 679331",
+  "LandMark": "My G",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "",
+  "ContactNo": "+918592011466",
+  "ZoneId": 1,
+  "IdProofType": "0",
+  "IdProofImage": "55b23813-25d5-4c7b-ac3b-3faae9097fb4.jpg",
+  "IsDeleted": 0,
+  "Status": 1,
+  "JobType": "0",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60b1cedb351d19986254020e"
+  },
+  "UserId": 103,
+  "DeliveryAgentId": 11,
+  "DeliveryAgentCode": "MG_ID000102",
+  "AgentName": "Ajeesh ",
+  "Address": "Edakkara",
+  "LandMark": "Edakkara",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9562554450",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 2,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60b87df07353490f91b312d0"
+  },
+  "UserId": 114,
+  "DeliveryAgentId": 12,
+  "DeliveryAgentCode": "D_AG000114",
+  "AgentName": "Abhiram S",
+  "Address": "Abhinath Nivas ,\nChungathara P O\nMalappuram ",
+  "LandMark": "Marthoma College",
+  "District": "Malappuram",
+  "Pincode": "679334",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "7736407360",
+  "ZoneId": 1,
+  "IdProofType": "Aadhaar",
+  "IdProofImage": "7058f25b-112e-40c9-be70-6ad091118e16.jpg",
+  "IsDeleted": 0,
+  "Status": 2,
+  "JobType": "PANCard",
+  "IsOnline": true,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": true,
+  "PlayerId": "04be2dd4-b873-480f-a341-bf424cf8b540"
+},{
+  "_id": {
+    "$oid": "60b87f567353490f91b312d2"
+  },
+  "UserId": 115,
+  "DeliveryAgentId": 13,
+  "DeliveryAgentCode": "D_AG000115",
+  "AgentName": "Robin Biju",
+  "Address": "Vadakkekkara, Narivalamunda, \nModapoika, Vazhikkadavu, Malappuram ",
+  "LandMark": "St Joseph Church",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "6238956003",
+  "ZoneId": 1,
+  "IdProofType": "Aadhaar",
+  "IdProofImage": "ee280148-9e20-41c5-87d0-1661e9f7c753.jpg",
+  "IsDeleted": 0,
+  "Status": 2,
+  "JobType": "PANCard",
+  "IsOnline": true,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": true,
+  "PlayerId": "24a0cb19-e0d6-4823-b588-4d573b0f1d76"
+},{
+  "_id": {
+    "$oid": "60b9d86ac804c3ef55149c3a"
+  },
+  "UserId": 247,
+  "DeliveryAgentId": 14,
+  "DeliveryAgentCode": "D_AG000247",
+  "AgentName": "Ajay Santhosh",
+  "Address": "Kollamparambil House \nPathirippadam PO\nChungathara",
+  "LandMark": "AUP School",
+  "District": "Malappuram",
+  "Pincode": "679334",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9645736037",
+  "ZoneId": 1,
+  "IdProofType": "Aadhaar",
+  "IdProofImage": "4ebacf0b-1031-4d9f-9db3-996f62fe3946.jpg",
+  "IsDeleted": 0,
+  "Status": 2,
+  "JobType": "PANCard",
+  "IsOnline": true,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": true,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60bf15edc10abff2c63701a6"
+  },
+  "UserId": 369,
+  "DeliveryAgentId": 15,
+  "DeliveryAgentCode": "MG_ID000368",
+  "AgentName": "Jaber",
+  "Address": "Stationpadi, CNG Road- High School link Rd, Edakkara, Kerala",
+  "LandMark": "CNG Road- High School link Rd",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "7594857850",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60c2fc9a9e23eb0dd54d9747"
+  },
+  "UserId": 433,
+  "DeliveryAgentId": 16,
+  "DeliveryAgentCode": "MG_ID000432",
+  "AgentName": "Jos Vipin C E",
+  "Address": "17/240, Edamala,\nChungathara, Malappuram Dist,\nKerala - 679334",
+  "LandMark": "Edamala",
+  "District": "Malappuram",
+  "Pincode": "679334",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9496825155",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60c334649e23eb0dd54d9766"
+  },
+  "UserId": 440,
+  "DeliveryAgentId": 17,
+  "DeliveryAgentCode": "MG_ID000439",
+  "AgentName": "Bava",
+  "Address": "Near SBI Bank Edakkara",
+  "LandMark": "SBI Bank",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "7034744710",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60c70cd25a17631cc2d7f3a4"
+  },
+  "UserId": 480,
+  "DeliveryAgentId": 18,
+  "DeliveryAgentCode": "D_AG000480",
+  "AgentName": "Muhammed Rashid",
+  "Address": "Kohipadan House \nKambalakalli PO\nThorakkunnu\nVazhikkadavu",
+  "LandMark": "Thorakunnu Valiya Jumah Masjid",
+  "District": "Malappuram",
+  "Pincode": "679333",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "7034132543",
+  "ZoneId": 1,
+  "IdProofType": "Aadhaar",
+  "IdProofImage": "97ae420f-c778-4ed0-ad26-c48e72dd7099.jpg",
+  "IsDeleted": 0,
+  "Status": 2,
+  "JobType": "PANCard",
+  "IsOnline": true,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": true,
+  "PlayerId": "95e8f168-816e-44c3-86a0-c7bae62f925b"
+},{
+  "_id": {
+    "$oid": "60cc29e2b901c5f1ecd0f293"
+  },
+  "UserId": 518,
+  "DeliveryAgentId": 19,
+  "DeliveryAgentCode": "MG_ID000517",
+  "AgentName": "Amrutha ",
+  "Address": "Musliyarangadi, Edakkara",
+  "LandMark": "Adinos ",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9562816524",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60cc6f32b901c5f1ecd0f2a0"
+  },
+  "UserId": 521,
+  "DeliveryAgentId": 20,
+  "DeliveryAgentCode": "MG_ID000520",
+  "AgentName": "Shreyas",
+  "Address": "Near Bus stand, Chungathara \nMalappuram",
+  "LandMark": "Bus Stand",
+  "District": "Malappuram",
+  "Pincode": "679334",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9447423160",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60d4743d0733acc59860f26e"
+  },
+  "UserId": 589,
+  "DeliveryAgentId": 21,
+  "DeliveryAgentCode": "MG_ID000588",
+  "AgentName": "Madheena Store",
+  "Address": "Near New Bus Stand\nEdakkara",
+  "LandMark": "New Bus Stand",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9745281930",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60d6bff7ce2b64bf38fa97ba"
+  },
+  "UserId": 596,
+  "DeliveryAgentId": 22,
+  "DeliveryAgentCode": "MG_ID000595",
+  "AgentName": "Sebi",
+  "Address": "Opp. Teak Museum & Bio-resources Nature Park, Nilambur, Kerala 679329",
+  "LandMark": "Teak Museum",
+  "District": "Malappuram",
+  "Pincode": "679329",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9496477647",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "60e3eedf715c31c088c007a8"
+  },
+  "UserId": 649,
+  "DeliveryAgentId": 23,
+  "DeliveryAgentCode": "MG_ID000648",
+  "AgentName": "Joly",
+  "Address": "Musliyarangadi, Oppo SBI\nEdakkara",
+  "LandMark": "SBI Bank",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9946916488",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "6115036d4a556ec89d3cec78"
+  },
+  "UserId": 781,
+  "DeliveryAgentId": 24,
+  "DeliveryAgentCode": "D_AG000781",
+  "AgentName": "Rishad",
+  "Address": ".",
+  "LandMark": ".",
+  "District": "Malappuram",
+  "Pincode": "679333",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9539438010",
+  "ZoneId": 1,
+  "IdProofType": "DrivingLicence",
+  "IdProofImage": "65841f60-b362-43a4-a0d4-0a508a5fa956.jpg",
+  "IsDeleted": 0,
+  "Status": 2,
+  "JobType": "VoterId",
+  "IsOnline": true,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": true,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "611508d64a556ec89d3cec7b"
+  },
+  "UserId": 783,
+  "DeliveryAgentId": 25,
+  "DeliveryAgentCode": "MG_ID000782",
+  "AgentName": "Binu",
+  "Address": "Near Masjid, Vazhikkadavu ",
+  "LandMark": "Masjid",
+  "District": "Malappuram",
+  "Pincode": "679333",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "7356376668",
+  "ZoneId": 1,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 0,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "61235f4e5a25270c0e85ba47"
+  },
+  "UserId": 823,
+  "DeliveryAgentId": 26,
+  "DeliveryAgentCode": "MG_ID000822",
+  "AgentName": "Riyas",
+  "Address": "76C9+JFR, Nilambur, Malappuram",
+  "LandMark": "Near Oceekay Auditorium ",
+  "District": "Malappuram",
+  "Pincode": "679329",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9895883377",
+  "ZoneId": 3,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 1,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "6125d503902dd1501518e4d1"
+  },
+  "UserId": 828,
+  "DeliveryAgentId": 27,
+  "DeliveryAgentCode": "D_AG000828",
+  "AgentName": "Arif Nins C",
+  "Address": "Cholayi House \nVellaramkkunnu, Edakkara \nMalappuram Dist",
+  "LandMark": "St. Orthodox",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "70340606581",
+  "ZoneId": 1,
+  "IdProofType": "DrivingLicence",
+  "IdProofImage": "8e3fe9ba-81cd-4189-9214-9dd325b72855.jpg",
+  "IsDeleted": 0,
+  "Status": 1,
+  "JobType": "VoterId",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": true,
+  "PlayerId": "b09bb24f-8042-44ac-b15e-b76f287708ca"
+},{
+  "_id": {
+    "$oid": "612cbc8e2e3b9e17f499a156"
+  },
+  "UserId": 841,
+  "DeliveryAgentId": 28,
+  "DeliveryAgentCode": "MG_ID000840",
+  "AgentName": "Noushad",
+  "Address": "Jyothi Junction,\n\nSH 28 Main Road Nilambur",
+  "LandMark": "Oppo. Mini bypass",
+  "District": "Malappuram",
+  "Pincode": "679329",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9946630698",
+  "ZoneId": 3,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 1,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "613095333b47daf977c21fab"
+  },
+  "UserId": 847,
+  "DeliveryAgentId": 29,
+  "DeliveryAgentCode": "D_AG000847",
+  "AgentName": "Arif Nazal",
+  "Address": "Cholayil House",
+  "LandMark": "St Thomas Church",
+  "District": "Malappuram",
+  "Pincode": "679331",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "9645179500",
+  "ZoneId": 1,
+  "IdProofType": "Aadhaar",
+  "IdProofImage": "f6d56f9f-7e4e-459c-a8c5-86bffbe02405.jpg",
+  "IsDeleted": 0,
+  "Status": 1,
+  "JobType": "VoterId",
+  "IsOnline": true,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": true,
+  "PlayerId": "95e8f168-816e-44c3-86a0-c7bae62f925b"
+},{
+  "_id": {
+    "$oid": "6135b607ce1e44b69cbf2525"
+  },
+  "UserId": 865,
+  "DeliveryAgentId": 30,
+  "DeliveryAgentCode": "MG_ID000864",
+  "AgentName": "Ajmal",
+  "Address": "Perintalmanna",
+  "LandMark": "Junction",
+  "District": "Malappuram",
+  "Pincode": "679322",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "7907054990",
+  "ZoneId": 4,
+  "IdProofType": "Voter ID",
+  "IdProofImage": "no",
+  "IsDeleted": 1,
+  "Status": 0,
+  "JobType": "Full Time",
+  "IsOnline": false,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": false,
+  "PlayerId": null
+},{
+  "_id": {
+    "$oid": "6135bbd0ce1e44b69cbf2537"
+  },
+  "UserId": 867,
+  "DeliveryAgentId": 31,
+  "DeliveryAgentCode": "D_AG000867",
+  "AgentName": "Muneer",
+  "Address": "Perinthalmanna",
+  "LandMark": "Masjid",
+  "District": "Malappuram",
+  "Pincode": "679322",
+  "BlockNo": "",
+  "CountryCode": "+91",
+  "ContactNo": "8075429936",
+  "ZoneId": 4,
+  "IdProofType": "DrivingLicence",
+  "IdProofImage": "e4005e48-2eb0-4538-a198-1a635ad5c267.jpg",
+  "IsDeleted": 0,
+  "Status": 1,
+  "JobType": "VoterId",
+  "IsOnline": true,
+  "ShiftId": 0,
+  "ShiftStartTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "ShiftEndTime": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "IsBookAtAgent": true,
+  "PlayerId": null
+}]

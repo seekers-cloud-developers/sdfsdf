@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "60a101bdaef94120d0bcfc0b"
+  },
+  "App": "Customer",
+  "IsDeleted": 0,
+  "Issue": "Where can I find currently running offers/ promotions?",
+  "IssueId": 2
+},{
+  "_id": {
+    "$oid": "60a101eaaef94120d0bcfc0c"
+  },
+  "App": "Customer",
+  "IsDeleted": 0,
+  "Issue": "I am a corporate/ business. Can I place orders with Bookat Online Store?",
+  "IssueId": 3
+},{
+  "_id": {
+    "$oid": "60a1021baef94120d0bcfc0d"
+  },
+  "App": "Customer",
+  "IsDeleted": 0,
+  "Issue": "I'd like to suggest some products. Who do I contact?",
+  "IssueId": 3
+}]

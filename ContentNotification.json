@@ -1,0 +1,334 @@
+[{
+  "_id": {
+    "$oid": "5fc06fb3554ba777b3c379de"
+  },
+  "EventDescription": "Dear CustomerName, your order has been picked up by AgentName on Date at Time and will be delivered soon!",
+  "EventId": 8,
+  "EventType": 8,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "5fc06eea554ba777b3c379d9"
+  },
+  "EventDescription": "Dear CustomerName, Your order status has been updated on Date at Time!",
+  "EventId": 3,
+  "EventType": 2,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "5fc06ff4554ba777b3c379e0"
+  },
+  "EventDescription": "Dear CustomerName, Your order is completed on Date at Time! please don't forget to give the feedback!",
+  "EventId": 10,
+  "EventType": 10,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "5fc07118554ba777b3c379e5"
+  },
+  "EventDescription": "Hi MerchantName, A new order has been placed on Date at Time with Order number OrderNo",
+  "EventId": 15,
+  "EventType": 0,
+  "IsDeleted": 0,
+  "UserId": 2
+},{
+  "_id": {
+    "$oid": "609cc405ab273b18b346f04a"
+  },
+  "EventDescription": "Hi DeliveryAgentName, Order number orderno has been cancelled by MerchantName, on date at time! Reason for cancellation: ReasonForCancel",
+  "EventId": 44,
+  "EventType": 11,
+  "IsDeleted": 0,
+  "UserId": 21
+},{
+  "_id": {
+    "$oid": "60a8a5327535c71408a4e0de"
+  },
+  "EventDescription": "Hi MerchantName, Order number OrderNo has been completed on Date at Time.",
+  "EventId": 46,
+  "EventType": 10,
+  "IsDeleted": 0,
+  "UserId": 2
+},{
+  "_id": {
+    "$oid": "609cb3e25866948fc9587181"
+  },
+  "EventDescription": "Dear CustomerName,Your order has been cancelled by DeliveryAgentName on Date at Time! Reason for cancellation: ReasonForCancel",
+  "EventId": 41,
+  "EventType": 11,
+  "IsDeleted": 0,
+  "UserId": 20
+},{
+  "_id": {
+    "$oid": "5fc072a6554ba777b3c379ea"
+  },
+  "EventDescription": "Hi DeliveryAgentName, Order number orderno has been assigned to you, on date at time!",
+  "EventId": 20,
+  "EventType": 5,
+  "IsDeleted": 0,
+  "UserId": 4
+},{
+  "_id": {
+    "$oid": "60bf1fb6e7ed5605a4817487"
+  },
+  "EventDescription": "An Order orderno has been deliverd by DeliveryAgentName on date at time ",
+  "EventId": 52,
+  "EventType": 9,
+  "IsDeleted": 0,
+  "UserId": 0
+},{
+  "_id": {
+    "$oid": "5fc06f6d554ba777b3c379db"
+  },
+  "EventDescription": "Dear CustomerName, Your order has been accepted on Date at Time by AgentName!",
+  "EventId": 5,
+  "EventType": 5,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "60bf200de7ed5605a4817488"
+  },
+  "EventDescription": "An Order orderno has been completed by DeliveryAgentName on date at time ",
+  "EventId": 53,
+  "EventType": 10,
+  "IsDeleted": 0,
+  "UserId": 0
+},{
+  "_id": {
+    "$oid": "5fc0705c554ba777b3c379e3"
+  },
+  "EventDescription": "Dear CustomerName, Your order is on the way! Time",
+  "EventId": 13,
+  "EventType": 14,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "609cc338ab273b18b346f049"
+  },
+  "EventDescription": "Hi MerchantName, Order number OrderNo has been cancelled by DeliveryAgentName on Date at Time! Reason for cancellation: ReasonForCancel",
+  "EventId": 43,
+  "EventType": 11,
+  "IsDeleted": 0,
+  "UserId": 12
+},{
+  "_id": {
+    "$oid": "5fc07225554ba777b3c379e8"
+  },
+  "EventDescription": "Hi MerchantName, Order number OrderNo has been delivered on Date at Time!",
+  "EventId": 18,
+  "EventType": 9,
+  "IsDeleted": 0,
+  "UserId": 2
+},{
+  "_id": {
+    "$oid": "5fc06f99554ba777b3c379dd"
+  },
+  "EventDescription": "Dear CustomerName, Your order is ready to pickup! Time",
+  "EventId": 7,
+  "EventType": 7,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "60bdaf96e7ed5605a4817482"
+  },
+  "EventDescription": "New order orderno has been placed on date at time by CustomerName to MerchantName",
+  "EventId": 47,
+  "EventType": 0,
+  "IsDeleted": 0,
+  "UserId": 0
+},{
+  "_id": {
+    "$oid": "60bf2257e7ed5605a4817489"
+  },
+  "EventDescription": "An Order orderno payment has been received by DeliveryAgentName on date at time ",
+  "EventId": 54,
+  "EventType": 13,
+  "IsDeleted": 0,
+  "UserId": 0
+},{
+  "_id": {
+    "$oid": "609cc547ab273b18b346f04b"
+  },
+  "EventDescription": "Hi DeliveryAgentName, Order number orderno has been cancelled by CustomerName, on date at time! Reason for cancellation: ReasonForCancel",
+  "EventId": 45,
+  "EventType": 11,
+  "IsDeleted": 0,
+  "UserId": 22
+},{
+  "_id": {
+    "$oid": "60bf0d84e7ed5605a4817483"
+  },
+  "EventDescription": "An Order orderno has been cancelled by cancelledBy, on date at time! Reason for cancellation: ReasonForCancel",
+  "EventId": 48,
+  "EventType": 11,
+  "IsDeleted": 0,
+  "UserId": 0
+},{
+  "_id": {
+    "$oid": "60bf1f39e7ed5605a4817486"
+  },
+  "EventDescription": "An Order orderno has been picked up by DeliveryAgentName on date at time ",
+  "EventId": 51,
+  "EventType": 8,
+  "IsDeleted": 0,
+  "UserId": 0
+},{
+  "_id": {
+    "$oid": "5fc06e8c554ba777b3c379d8"
+  },
+  "EventDescription": "Dear CustomerName, Your order has been rejected on Date at Time by MerchantName, Reason for rejection: ReasonForReject , and any payments done will be reversed to your account!",
+  "EventId": 2,
+  "EventType": 1,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "5fc06f84554ba777b3c379dc"
+  },
+  "EventDescription": "Dear CustomerName, Your order has been packed on Date at Time!",
+  "EventId": 6,
+  "EventType": 6,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "5fc06f56554ba777b3c379da"
+  },
+  "EventDescription": "Dear CustomerName, Your order has been accepted on Date at Time by MerchantName!",
+  "EventId": 4,
+  "EventType": 4,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "609cb31e5866948fc9587180"
+  },
+  "EventDescription": "Dear CustomerName, Your order has been cancelled by MerchantName , on Date at Time! Reason for cancellation: ReasonForCancel",
+  "EventId": 40,
+  "EventType": 11,
+  "IsDeleted": 0,
+  "UserId": 10
+},{
+  "_id": {
+    "$oid": "5fc07183554ba777b3c379e6"
+  },
+  "EventDescription": "Hi MerchantName, Order number OrderNo has been cancelled by CustomerName on Date at Time! Reason for cancellation: ReasonForCancel",
+  "EventId": 16,
+  "EventType": 11,
+  "IsDeleted": 0,
+  "UserId": 2
+},{
+  "_id": {
+    "$oid": "5fc06fd6554ba777b3c379df"
+  },
+  "EventDescription": "Dear CustomerName, your order has been delivered on Date at Time, Thanks for using the BookAt application!",
+  "EventId": 9,
+  "EventType": 9,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "5fc072e7554ba777b3c379eb"
+  },
+  "EventDescription": "Hi DeliveryAgentName, Order number orderno has been cancelled, on date at time! Reason for cancellation: ReasonForCancel",
+  "EventId": 21,
+  "EventType": 11,
+  "IsDeleted": 0,
+  "UserId": 4
+},{
+  "_id": {
+    "$oid": "5fc0700c554ba777b3c379e1"
+  },
+  "EventDescription": "Dear CustomerName, Your order has been cancelled on Date at Time! Reason for cancellation: ReasonForCancel",
+  "EventId": 11,
+  "EventType": 11,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "5fc07280554ba777b3c379e9"
+  },
+  "EventDescription": "Hi DeliveryAgentName, Order number orderno is ready for pick up, on date at time!",
+  "EventId": 19,
+  "EventType": 7,
+  "IsDeleted": 0,
+  "UserId": 4
+},{
+  "_id": {
+    "$oid": "60bf1ed0e7ed5605a4817485"
+  },
+  "EventDescription": "An Order orderno has been accepted by MerchantName on date at time ",
+  "EventId": 50,
+  "EventType": 4,
+  "IsDeleted": 0,
+  "UserId": 0
+},{
+  "_id": {
+    "$oid": "5fc071fb554ba777b3c379e7"
+  },
+  "EventDescription": "Hi MerchantName, Delivery agent has been assigned for Order number OrderNo on Date at Time!",
+  "EventId": 17,
+  "EventType": 5,
+  "IsDeleted": 0,
+  "UserId": 2
+},{
+  "_id": {
+    "$oid": "5fc07078554ba777b3c379e4"
+  },
+  "EventDescription": "Dear CustomerName, Your order is being prepared! Time",
+  "EventId": 14,
+  "EventType": 15,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "601b8f7eb30ffde6c0e060f8"
+  },
+  "EventDescription": "Hi DeliveryAgentName, Order Number orderno has been packed on date at time!",
+  "EventId": 39,
+  "EventType": 6,
+  "IsDeleted": 0,
+  "UserId": 4
+},{
+  "_id": {
+    "$oid": "5fc07040554ba777b3c379e2"
+  },
+  "EventDescription": "Dear CustomerName, Payment of Rs. Amount has been received via PaymentMode on Date at Time!",
+  "EventId": 12,
+  "EventType": 13,
+  "IsDeleted": 0,
+  "UserId": 1
+},{
+  "_id": {
+    "$oid": "609cbf7aab273b18b346f048"
+  },
+  "EventDescription": "Hi MerchantName, Order number OrderNo has been cancelled on Date at Time! Reason for cancellation: ReasonForCancel",
+  "EventId": 42,
+  "EventType": 11,
+  "IsDeleted": 0,
+  "UserId": 11
+},{
+  "_id": {
+    "$oid": "60bf1dd0e7ed5605a4817484"
+  },
+  "EventDescription": "An Order orderno has been accepted by DeliveryAgentName on date at time ",
+  "EventId": 49,
+  "EventType": 5,
+  "IsDeleted": 0,
+  "UserId": 0
+},{
+  "_id": {
+    "$oid": "5fc06e68554ba777b3c379d7"
+  },
+  "EventDescription": "Dear CustomerName, Your order has been placed on Date at Time!",
+  "EventId": 1,
+  "EventType": 0,
+  "IsDeleted": 0,
+  "UserId": 1
+}]

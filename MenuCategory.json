@@ -1,0 +1,793 @@
+[{
+  "_id": {
+    "$oid": "60925d04f11d926fbf8428e3"
+  },
+  "MenuCategoryId": 1,
+  "MenuCategoryName": "House Holds",
+  "MenuCategoryDescription": "Basic equipments",
+  "Status": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "609789c7b5327e777214237e"
+  },
+  "MenuCategoryId": 2,
+  "MenuCategoryName": "Agarbathis",
+  "MenuCategoryDescription": "Agarbatti” also known as “Incense Sticks” are made from aromatic plants and essential oils extracted from plants or animal sources. When lightened, they release fragrant smoke which is used in religious activities, prayers, therapeutic and aesthetic purposes. ",
+  "Status": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "609e3851481478fcb44529dd"
+  },
+  "MenuCategoryId": 3,
+  "MenuCategoryName": "Beirut Specials",
+  "MenuCategoryDescription": "The tasty and yummy special dishes.",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "609e394b481478fcb44529de"
+  },
+  "MenuCategoryId": 4,
+  "MenuCategoryName": "Juice & Ice Creams",
+  "MenuCategoryDescription": "Top Ice Creams",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a1f2940176104780c707cd"
+  },
+  "MenuCategoryId": 5,
+  "MenuCategoryName": "Hotel Minar - Specials",
+  "MenuCategoryDescription": "The only thing we're serious about is food.",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a254e54776162b48ec9746"
+  },
+  "MenuCategoryId": 6,
+  "MenuCategoryName": "Breakfast",
+  "MenuCategoryDescription": "Breakfast",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a255974776162b48ec9747"
+  },
+  "MenuCategoryId": 7,
+  "MenuCategoryName": "Meals",
+  "MenuCategoryDescription": "Kerala Meals",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a296007f3acd5f9b5cc6ad"
+  },
+  "MenuCategoryId": 8,
+  "MenuCategoryName": "In Main",
+  "MenuCategoryDescription": "Main dishes",
+  "Status": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "60a296757f3acd5f9b5cc6ae"
+  },
+  "MenuCategoryId": 10,
+  "MenuCategoryName": "Biriyani with Salad & Pickle",
+  "MenuCategoryDescription": "Biriyani with Salad & Pickle",
+  "Status": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "60a297217f3acd5f9b5cc6af"
+  },
+  "MenuCategoryId": 11,
+  "MenuCategoryName": "Chef's Special",
+  "MenuCategoryDescription": "Chef's Special Dish",
+  "Status": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "60a298ba7f3acd5f9b5cc6b0"
+  },
+  "MenuCategoryId": 12,
+  "MenuCategoryName": "In Breads",
+  "MenuCategoryDescription": "Bread items",
+  "Status": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "60a2992a7f3acd5f9b5cc6b1"
+  },
+  "MenuCategoryId": 13,
+  "MenuCategoryName": "Own Special",
+  "MenuCategoryDescription": "Special Dishes",
+  "Status": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "60a341f74121fade0858080a"
+  },
+  "MenuCategoryId": 14,
+  "MenuCategoryName": "Raydan Specials",
+  "MenuCategoryDescription": "Specials from Raydan",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a35400ab3a7e2521abf6a5"
+  },
+  "MenuCategoryId": 15,
+  "MenuCategoryName": "Rahath Specials",
+  "MenuCategoryDescription": "Specials of Rahath",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a4bcacbc28d1eaa97b7652"
+  },
+  "MenuCategoryId": 16,
+  "MenuCategoryName": "Breads",
+  "MenuCategoryDescription": "Bread Items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a4c7ed6c018234f54257af"
+  },
+  "MenuCategoryId": 17,
+  "MenuCategoryName": "Chicken",
+  "MenuCategoryDescription": "Chicken Items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a4c8046c018234f54257b0"
+  },
+  "MenuCategoryId": 18,
+  "MenuCategoryName": "Grilled",
+  "MenuCategoryDescription": "Grilled Dishe",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a4c8246c018234f54257b1"
+  },
+  "MenuCategoryId": 19,
+  "MenuCategoryName": "With Rice",
+  "MenuCategoryDescription": "Rice Items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a4c8626c018234f54257b2"
+  },
+  "MenuCategoryId": 20,
+  "MenuCategoryName": "Broasted",
+  "MenuCategoryDescription": "Broasted Chicken",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a5ea04b77453da2fce647e"
+  },
+  "MenuCategoryId": 21,
+  "MenuCategoryName": "Hot Beverages",
+  "MenuCategoryDescription": "Beverages like cappuccino ",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a5ea20b77453da2fce647f"
+  },
+  "MenuCategoryId": 22,
+  "MenuCategoryName": "Cold Beverages",
+  "MenuCategoryDescription": "Beverages of cold items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a5ed24b77453da2fce6480"
+  },
+  "MenuCategoryId": 23,
+  "MenuCategoryName": "Baik Burgers",
+  "MenuCategoryDescription": "Special Burgers",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a5ed40b77453da2fce6481"
+  },
+  "MenuCategoryId": 24,
+  "MenuCategoryName": "Special Combo",
+  "MenuCategoryDescription": "Combos offered by Al baik",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a5ed53b77453da2fce6482"
+  },
+  "MenuCategoryId": 25,
+  "MenuCategoryName": "Side Menu",
+  "MenuCategoryDescription": "Side dishes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a5ed77b77453da2fce6483"
+  },
+  "MenuCategoryId": 26,
+  "MenuCategoryName": "Rice Dishes",
+  "MenuCategoryDescription": "Rice Items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a5edd6b77453da2fce6484"
+  },
+  "MenuCategoryId": 27,
+  "MenuCategoryName": "Kebab",
+  "MenuCategoryDescription": "Varieties of Kebab",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a640cdf04586033bc1c254"
+  },
+  "MenuCategoryId": 28,
+  "MenuCategoryName": "Wrap",
+  "MenuCategoryDescription": "Wraps",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a68654890fa533d8f7f59f"
+  },
+  "MenuCategoryId": 29,
+  "MenuCategoryName": "Biriyani",
+  "MenuCategoryDescription": "Types of Biriyanies",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a6868e890fa533d8f7f5a0"
+  },
+  "MenuCategoryId": 30,
+  "MenuCategoryName": "Beef",
+  "MenuCategoryDescription": "All Beef Items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a686b3890fa533d8f7f5a1"
+  },
+  "MenuCategoryId": 31,
+  "MenuCategoryName": "Mandi",
+  "MenuCategoryDescription": "Types of Mandies",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a68779890fa533d8f7f5a2"
+  },
+  "MenuCategoryId": 32,
+  "MenuCategoryName": "Burgers",
+  "MenuCategoryDescription": "Burger Items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a687a3890fa533d8f7f5a3"
+  },
+  "MenuCategoryId": 33,
+  "MenuCategoryName": "Rolls",
+  "MenuCategoryDescription": "Roll Items ",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7d55a711a9b078a90ff94"
+  },
+  "MenuCategoryId": 34,
+  "MenuCategoryName": "Veggies",
+  "MenuCategoryDescription": "Vegetarian Dishes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7d777711a9b078a90ff96"
+  },
+  "MenuCategoryId": 35,
+  "MenuCategoryName": "Non - Veg Curry",
+  "MenuCategoryDescription": "Non veg Curry Items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e102711a9b078a90ff9d"
+  },
+  "MenuCategoryId": 36,
+  "MenuCategoryName": "Falooda",
+  "MenuCategoryDescription": "Special Falooda",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e120711a9b078a90ff9e"
+  },
+  "MenuCategoryId": 37,
+  "MenuCategoryName": "Fruit Salad",
+  "MenuCategoryDescription": "Fruit salad items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e142711a9b078a90ff9f"
+  },
+  "MenuCategoryId": 38,
+  "MenuCategoryName": "Fresh Juices",
+  "MenuCategoryDescription": "Types of fresh juices",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e151711a9b078a90ffa0"
+  },
+  "MenuCategoryId": 39,
+  "MenuCategoryName": "Tender Items",
+  "MenuCategoryDescription": "Items of Tender",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e166711a9b078a90ffa1"
+  },
+  "MenuCategoryId": 40,
+  "MenuCategoryName": "Mojito",
+  "MenuCategoryDescription": "Mojito Items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e181711a9b078a90ffa2"
+  },
+  "MenuCategoryId": 41,
+  "MenuCategoryName": "Mocktails",
+  "MenuCategoryDescription": "Different types of mocktails",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e1a4711a9b078a90ffa3"
+  },
+  "MenuCategoryId": 42,
+  "MenuCategoryName": "Special Juices",
+  "MenuCategoryDescription": "Special Juices of Beirut",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e1cf711a9b078a90ffa4"
+  },
+  "MenuCategoryId": 43,
+  "MenuCategoryName": "Special Beirut Shakes",
+  "MenuCategoryDescription": "Special shakes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e1e6711a9b078a90ffa5"
+  },
+  "MenuCategoryId": 44,
+  "MenuCategoryName": "Ice Cream Shakes",
+  "MenuCategoryDescription": "Ice Cream Dishes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e23b711a9b078a90ffa6"
+  },
+  "MenuCategoryId": 45,
+  "MenuCategoryName": "Fresh Fruit Sundea",
+  "MenuCategoryDescription": "Sundues",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e32f711a9b078a90ffa7"
+  },
+  "MenuCategoryId": 46,
+  "MenuCategoryName": "Chocolate Sundues",
+  "MenuCategoryDescription": "Chocolate ",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e34b711a9b078a90ffa8"
+  },
+  "MenuCategoryId": 47,
+  "MenuCategoryName": "Fresh Fruit Shakes",
+  "MenuCategoryDescription": "Fruit Shakes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e36f711a9b078a90ffa9"
+  },
+  "MenuCategoryId": 48,
+  "MenuCategoryName": "Scoops",
+  "MenuCategoryDescription": "Scoop of ice creams",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e382711a9b078a90ffaa"
+  },
+  "MenuCategoryId": 49,
+  "MenuCategoryName": "Tea",
+  "MenuCategoryDescription": "Types of Tea",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a7e39b711a9b078a90ffab"
+  },
+  "MenuCategoryId": 50,
+  "MenuCategoryName": "Fresh Limes",
+  "MenuCategoryDescription": "Lime Items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a9f19f6855b49a0a4e982e"
+  },
+  "MenuCategoryId": 51,
+  "MenuCategoryName": "Duck",
+  "MenuCategoryDescription": "Fresh Duck",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60a9ff966855b49a0a4e983b"
+  },
+  "MenuCategoryId": 52,
+  "MenuCategoryName": "Masala",
+  "MenuCategoryDescription": "Powders",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa74713659b83af9a85df2"
+  },
+  "MenuCategoryId": 53,
+  "MenuCategoryName": "Health Juices",
+  "MenuCategoryDescription": "Fresh Juices",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa75033659b83af9a85df3"
+  },
+  "MenuCategoryId": 54,
+  "MenuCategoryName": "Dry Fruit Shakes",
+  "MenuCategoryDescription": "Shakes with dry fruits",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa75153659b83af9a85df4"
+  },
+  "MenuCategoryId": 55,
+  "MenuCategoryName": "Dream Shakes",
+  "MenuCategoryDescription": "Dream Shakes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa752c3659b83af9a85df5"
+  },
+  "MenuCategoryId": 56,
+  "MenuCategoryName": "Punch Shakes",
+  "MenuCategoryDescription": "Punch Shakes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa754c3659b83af9a85df6"
+  },
+  "MenuCategoryId": 57,
+  "MenuCategoryName": "Shakes",
+  "MenuCategoryDescription": "Different types of shakes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa75683659b83af9a85df7"
+  },
+  "MenuCategoryId": 58,
+  "MenuCategoryName": "Freak Shakes",
+  "MenuCategoryDescription": "Verity shakes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa75be3659b83af9a85df8"
+  },
+  "MenuCategoryId": 59,
+  "MenuCategoryName": "Cold Coffee",
+  "MenuCategoryDescription": "Cold Coffees",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa75d23659b83af9a85df9"
+  },
+  "MenuCategoryId": 60,
+  "MenuCategoryName": "Sundae",
+  "MenuCategoryDescription": "Sundaes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa76113659b83af9a85dfa"
+  },
+  "MenuCategoryId": 61,
+  "MenuCategoryName": "Choco lovers",
+  "MenuCategoryDescription": "choco verities for choco lovers",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa7ef03659b83af9a85e06"
+  },
+  "MenuCategoryId": 62,
+  "MenuCategoryName": "Shawarma Rolls",
+  "MenuCategoryDescription": "Shawarma in rolls",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa7f1a3659b83af9a85e07"
+  },
+  "MenuCategoryId": 63,
+  "MenuCategoryName": "Shawarma Plate",
+  "MenuCategoryDescription": "Shwarma in plates",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60aa86a73659b83af9a85e0f"
+  },
+  "MenuCategoryId": 64,
+  "MenuCategoryName": "Sandwiches",
+  "MenuCategoryDescription": "Sandwiches",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b1c993351d19986254020a"
+  },
+  "MenuCategoryId": 65,
+  "MenuCategoryName": "Snacks",
+  "MenuCategoryDescription": "Delicious snacks",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b1c9cc351d19986254020b"
+  },
+  "MenuCategoryId": 66,
+  "MenuCategoryName": "Bread",
+  "MenuCategoryDescription": "Bread Items",
+  "Status": 0,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "60b209575403a6787008dcd3"
+  },
+  "MenuCategoryId": 67,
+  "MenuCategoryName": "Rusks",
+  "MenuCategoryDescription": "Rusks Items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60b9ffc5c804c3ef55149c64"
+  },
+  "MenuCategoryId": 68,
+  "MenuCategoryName": "Soft Drinks",
+  "MenuCategoryDescription": "Soft Drinks",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60bf21c8c10abff2c63701b3"
+  },
+  "MenuCategoryId": 69,
+  "MenuCategoryName": "Curry",
+  "MenuCategoryDescription": "Curry Items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c0e7ce2b64bf38fa97bc"
+  },
+  "MenuCategoryId": 70,
+  "MenuCategoryName": "Pasta",
+  "MenuCategoryDescription": "Only pasta",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c0fcce2b64bf38fa97bd"
+  },
+  "MenuCategoryId": 71,
+  "MenuCategoryName": "Steak",
+  "MenuCategoryDescription": "Steak iteams",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c119ce2b64bf38fa97be"
+  },
+  "MenuCategoryId": 72,
+  "MenuCategoryName": "Seasonal Fresh Juices",
+  "MenuCategoryDescription": "Seasonal Fresh Juices",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c128ce2b64bf38fa97bf"
+  },
+  "MenuCategoryId": 73,
+  "MenuCategoryName": "Smoothies",
+  "MenuCategoryDescription": "Smoothies",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c143ce2b64bf38fa97c0"
+  },
+  "MenuCategoryId": 74,
+  "MenuCategoryName": "Pizza",
+  "MenuCategoryDescription": "Pizza items",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c153ce2b64bf38fa97c1"
+  },
+  "MenuCategoryId": 75,
+  "MenuCategoryName": "Waffles",
+  "MenuCategoryDescription": "Waffles",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c172ce2b64bf38fa97c2"
+  },
+  "MenuCategoryId": 76,
+  "MenuCategoryName": "Iced Tea",
+  "MenuCategoryDescription": "Iced Tea",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c189ce2b64bf38fa97c3"
+  },
+  "MenuCategoryId": 77,
+  "MenuCategoryName": "Special Shakes",
+  "MenuCategoryDescription": "Special Shakes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c2a7ce2b64bf38fa97c4"
+  },
+  "MenuCategoryId": 78,
+  "MenuCategoryName": "Monstruos",
+  "MenuCategoryDescription": "Monstruos",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c2b9ce2b64bf38fa97c5"
+  },
+  "MenuCategoryId": 79,
+  "MenuCategoryName": "Special Cakes",
+  "MenuCategoryDescription": "Special Cakes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c2c9ce2b64bf38fa97c6"
+  },
+  "MenuCategoryId": 80,
+  "MenuCategoryName": "Cheese Cake",
+  "MenuCategoryDescription": "Cheese Cake",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c2e0ce2b64bf38fa97c7"
+  },
+  "MenuCategoryId": 81,
+  "MenuCategoryName": "Fresh Cream Cake",
+  "MenuCategoryDescription": "Fresh Cream Cake",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c2fdce2b64bf38fa97c8"
+  },
+  "MenuCategoryId": 82,
+  "MenuCategoryName": "Desserts",
+  "MenuCategoryDescription": "Desserts",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c30fce2b64bf38fa97c9"
+  },
+  "MenuCategoryId": 83,
+  "MenuCategoryName": "Mousse Cake",
+  "MenuCategoryDescription": "Mousse Cake",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c31fce2b64bf38fa97ca"
+  },
+  "MenuCategoryId": 84,
+  "MenuCategoryName": "Starters",
+  "MenuCategoryDescription": "Starters",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "60d6c328ce2b64bf38fa97cb"
+  },
+  "MenuCategoryId": 85,
+  "MenuCategoryName": "Salads",
+  "MenuCategoryDescription": "Salads",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "6135b37fce1e44b69cbf2520"
+  },
+  "MenuCategoryId": 86,
+  "MenuCategoryName": "Mandhi",
+  "MenuCategoryDescription": "Mandhi",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "6135b5dace1e44b69cbf2522"
+  },
+  "MenuCategoryId": 87,
+  "MenuCategoryName": "Milk",
+  "MenuCategoryDescription": "milk and cheese",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "6135c4efce1e44b69cbf2543"
+  },
+  "MenuCategoryId": 88,
+  "MenuCategoryName": "CAKE",
+  "MenuCategoryDescription": "Delicious cakes",
+  "Status": 0,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "61481bc92c026972c928944b"
+  },
+  "MenuCategoryId": 89,
+  "MenuCategoryName": "Budokan specials",
+  "MenuCategoryDescription": "Shawarma and snacks item ",
+  "Status": 0,
+  "IsDeleted": 0
+}]

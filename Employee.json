@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6087b325965f3487fd3d6978"
+  },
+  "UserId": 1,
+  "EmployeeId": 1,
+  "EmployeeCode": "EMP_ID0001",
+  "EmployeeName": "Afzana",
+  "Profile": 0,
+  "PlayerId": "7b7c871f-cb58-4033-a545-3b0af3f89241,7221db6e-e51b-4392-bf78-7f411548db94,9be200d2-e0a4-40f9-8f81-4bbbad647dc6,null,11ce5fe6-684e-488a-904a-ee386d29bf50,3e09283b-4ba2-4692-8d3c-a3f6b905ff2a,f3a43a4a-0b2c-418e-ab83-c682e8a0f076,41421480-eb8f-4b61-9c91-78eb1e4640ad,c7b2cfa1-d319-4f15-bc1c-52d4efeb0d19",
+  "Status": 0,
+  "FrangacyId": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "611cd4a6a15977ffa8c289f2"
+  },
+  "UserId": 807,
+  "EmployeeId": 2,
+  "EmployeeCode": "EMP_ID000807",
+  "EmployeeName": "Rishad",
+  "Profile": 7,
+  "PlayerId": "null",
+  "Status": 0,
+  "FrangacyId": 6,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "611cd4a7a15977ffa8c289f4"
+  },
+  "UserId": 808,
+  "EmployeeId": 3,
+  "EmployeeCode": "EMP_ID000808",
+  "EmployeeName": "Ajmal",
+  "Profile": 7,
+  "PlayerId": null,
+  "Status": 0,
+  "FrangacyId": 2,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "6135b014ce1e44b69cbf251f"
+  },
+  "UserId": 863,
+  "EmployeeId": 4,
+  "EmployeeCode": "EMP_ID000863",
+  "EmployeeName": "Muneer",
+  "Profile": 7,
+  "PlayerId": "28c2554c-9540-41d4-aeaf-dd8c7f7bbc18,59c9a5ec-0b0b-4fdd-a2ae-4df997fc93be,7b7c871f-cb58-4033-a545-3b0af3f89241,ed398305-2433-4504-9280-286779ffc455,11ce5fe6-684e-488a-904a-ee386d29bf50,41421480-eb8f-4b61-9c91-78eb1e4640ad",
+  "Status": 0,
+  "FrangacyId": 5,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "6139e1ca6f0557526100049a"
+  },
+  "UserId": 884,
+  "EmployeeId": 5,
+  "EmployeeCode": "EMP_ID000884",
+  "EmployeeName": "Rishad",
+  "Profile": 7,
+  "PlayerId": "f3a43a4a-0b2c-418e-ab83-c682e8a0f076,null,41421480-eb8f-4b61-9c91-78eb1e4640ad,11ce5fe6-684e-488a-904a-ee386d29bf50,7b7c871f-cb58-4033-a545-3b0af3f89241,c7b2cfa1-d319-4f15-bc1c-52d4efeb0d19",
+  "Status": 0,
+  "FrangacyId": 1,
+  "IsDeleted": 0
+}]

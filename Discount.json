@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "60c1aa34e42cf87c012cb254"
+  },
+  "DiscountId": 1,
+  "DiscountImage": "2c4e3e9d-d9ba-41b8-8eed-51e8aa0fe4aa.jpg",
+  "DiscountDescription": "<p>Offer only for few days</p>",
+  "MinOrderValue": "0.0",
+  "DiscountAmount": "0.0",
+  "DiscountPercentage": "0.0",
+  "DiscountType": 0,
+  "NoOfDiscounts": 300,
+  "ValidFrom": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "ValidTo": {
+    "$date": "2021-06-10T00:00:00Z"
+  },
+  "District": "Malappuram",
+  "ZoneList": [
+    1
+  ],
+  "MerchantId": 7,
+  "CategoryId": 0,
+  "ItemList": [
+    57
+  ],
+  "BrandId": 0,
+  "Status": 1,
+  "IsDeleted": 1
+},{
+  "_id": {
+    "$oid": "6135c86fce1e44b69cbf2546"
+  },
+  "DiscountId": 2,
+  "DiscountImage": "fab20a04-1a75-446c-92c3-f14f48eed7aa.jpg",
+  "DiscountDescription": "<p>Onam</p>",
+  "MinOrderValue": "0.0",
+  "DiscountAmount": "0.0",
+  "DiscountPercentage": "20.0",
+  "DiscountType": 0,
+  "NoOfDiscounts": "99",
+  "ValidFrom": {
+    "$date": "2021-09-06T00:00:00Z"
+  },
+  "ValidTo": {
+    "$date": "2021-09-07T00:00:00Z"
+  },
+  "District": "Malappuram",
+  "ZoneList": [
+    4
+  ],
+  "MerchantId": 26,
+  "CategoryId": 0,
+  "ItemList": [
+    867
+  ],
+  "BrandId": 0,
+  "Status": 1,
+  "IsDeleted": 0
+},{
+  "_id": {
+    "$oid": "613764ad32452d7a07e989f9"
+  },
+  "DiscountId": 3,
+  "DiscountImage": "6b15e357-1590-4672-a50d-7f9c1c11d9d1.jpg",
+  "DiscountDescription": "<p>Buy 2 Grilled Chicken Pizza - @599 only</p><p>Buy 2 Alfredo Chicken Pasta - @449 Only</p><p>Buy 3 Tandoori Chicken Burger - @449 Only&nbsp;</p><p>Get a free jaar cake for every 1000 above food bills<br>(Not applicable for offer items &amp; Cakes)</p>",
+  "MinOrderValue": "2.0",
+  "DiscountAmount": "70.0",
+  "DiscountPercentage": "0.0",
+  "DiscountType": 3,
+  "NoOfDiscounts": 498,
+  "ValidFrom": {
+    "$date": "2021-09-08T00:00:00Z"
+  },
+  "ValidTo": {
+    "$date": "2021-09-12T00:00:00Z"
+  },
+  "District": "Malappuram",
+  "ZoneList": [
+    1
+  ],
+  "MerchantId": 21,
+  "CategoryId": 0,
+  "ItemList": [],
+  "BrandId": 0,
+  "Status": 0,
+  "IsDeleted": 0
+}]

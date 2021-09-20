@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "5f925a840c0431bb5d5f06d2"
+  },
+  "FieldName": "NextSlotId",
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "5fad242d1edf1797eee8101f"
+  },
+  "FieldName": "NextEmailNotificationId",
+  "Value": 3061
+},{
+  "_id": {
+    "$oid": "5f991c7151f98320e43582ef"
+  },
+  "FieldName": "NextChatId",
+  "Value": 5
+},{
+  "_id": {
+    "$oid": "5fd9a17009bcf793974f15fa"
+  },
+  "FieldName": "NextMenuCategoryId",
+  "Value": 90
+},{
+  "_id": {
+    "$oid": "5f9fb7f191368e4e600d0a37"
+  },
+  "FieldName": "NextEmployeeId",
+  "Value": 6
+},{
+  "_id": {
+    "$oid": "5f645dca6cd55dc9e1461eac"
+  },
+  "FieldName": "NextCategoryId",
+  "Value": 45
+},{
+  "_id": {
+    "$oid": "5f7d5a67030b931daba31841"
+  },
+  "FieldName": "NextFeedBackId",
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "5f990b10f623ab4e52031f24"
+  },
+  "FieldName": "NextNotificationId",
+  "Value": 1
+},{
+  "_id": {
+    "$oid": "5f9fb9dc91d12222bdffef35"
+  },
+  "FieldName": "NextSettingsId",
+  "Value": 1
+},{
+  "_id": {
+    "$oid": "5f684c9d586b760f3c7e4ab5"
+  },
+  "FieldName": "NextUserId",
+  "Value": 899
+},{
+  "_id": {
+    "$oid": "5f72d448d0526e85cd471740"
+  },
+  "FieldName": "NextOrderId",
+  "Value": 434
+},{
+  "_id": {
+    "$oid": "5f64608d6cd55dc9e147720a"
+  },
+  "FieldName": "NextZoneId",
+  "Value": 5
+},{
+  "_id": {
+    "$oid": "5fdc6177d7383d2cd1186d73"
+  },
+  "FieldName": "NextPackageId",
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "5f6d90a522a30e184a8a03fa"
+  },
+  "FieldName": "NextProductId",
+  "Value": 893
+},{
+  "_id": {
+    "$oid": "5f990baff623ab4e52031f25"
+  },
+  "FieldName": "NextEventId",
+  "Value": 40
+},{
+  "_id": {
+    "$oid": "5f6d8f8c22a30e184a8a03f9"
+  },
+  "FieldName": "NextBrandId",
+  "Value": 16
+},{
+  "_id": {
+    "$oid": "5f9a5d46eb7fc053efbc122b"
+  },
+  "FieldName": "NextShiftId",
+  "Value": 1
+},{
+  "_id": {
+    "$oid": "5f71646b7f69866d35d539eb"
+  },
+  "FieldName": "NextUomId",
+  "Value": 39
+},{
+  "_id": {
+    "$oid": "5f92a0877883940d3ada7a3d"
+  },
+  "FieldName": "NextTicketId",
+  "Value": 7
+},{
+  "_id": {
+    "$oid": "5f65f34d3bb074229537224d"
+  },
+  "FieldName": "NextAgentId",
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "5f688e7a586b760f3c7e4ab7"
+  },
+  "FieldName": "NextCustomerId",
+  "Value": 839
+},{
+  "_id": {
+    "$oid": "5fa22a4ba6da68fd2e448446"
+  },
+  "FieldName": "NextPenaltyId",
+  "Value": 1
+},{
+  "_id": {
+    "$oid": "5fb60289b24551dc1ea66205"
+  },
+  "FieldName": "NextBannerId",
+  "Value": 33
+},{
+  "_id": {
+    "$oid": "5f687b88586b760f3c7e4ab6"
+  },
+  "FieldName": "NextMerchantId",
+  "Value": 27
+},{
+  "_id": {
+    "$oid": "5f8163e3a7fb613d67f21687"
+  },
+  "FieldName": "NextMerchantTypeId",
+  "Value": 6
+},{
+  "_id": {
+    "$oid": "5f9bbb4e2a898eab9d0bdb51"
+  },
+  "FieldName": "NextShiftScheduleId",
+  "Value": 1
+},{
+  "_id": {
+    "$oid": "5f72c928d0526e85cd47173f"
+  },
+  "FieldName": "NextCartId",
+  "Value": 1732
+},{
+  "_id": {
+    "$oid": "5fb8d0bc63b5e32814ea4b00"
+  },
+  "FieldName": "NextSearchId",
+  "Value": 1
+},{
+  "_id": {
+    "$oid": "5f8828447fe69180ef582b6d"
+  },
+  "FieldName": "NextDiscountId",
+  "Value": 4
+},{
+  "_id": {
+    "$oid": "5fd879e1f4b7e81be080c036"
+  },
+  "FieldName": "NextDiscountTypeId",
+  "Value": 5
+},{
+  "_id": {
+    "$oid": "60acdcb7b5e5912e14026379"
+  },
+  "FieldName": "NextGroupId",
+  "Value": 1
+},{
+  "_id": {
+    "$oid": "611a8f0f34683da906b5cbc1"
+  },
+  "FieldName": "NextFrangacyId",
+  "Value": 7
+}]
